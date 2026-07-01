@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0133/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說婆羅門避死經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0131.xml
+    old_id: T02n0131
+hash: sha256:836dc79af1fec9c39ec76bf3089023056ceb7849185ebd24c944d9bebf3d48d9

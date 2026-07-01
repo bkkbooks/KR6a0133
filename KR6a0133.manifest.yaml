@@ -1,0 +1,46 @@
+canonical_identifier: bkk:krp/KR6a0133/v1
+canonical_location: https://kanripo.org/bkk/KR6a0133/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說婆羅門避死經
+  identifiers:
+    alt_id:
+    - T02n0131
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0131.xml
+    old_id: T02n0131
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0133_000.yaml, hash: 'sha256:836dc79af1fec9c39ec76bf3089023056ceb7849185ebd24c944d9bebf3d48d9'}
+  - {seq: 1, filename: KR6a0133_001.yaml, hash: 'sha256:b74ac9c2e00e361d7737486f9640299db266bf37ce6e1dc8f223bb563e717ea0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0133_000.markers.yaml, hash: 'sha256:0531c33049cce9fe8ffecc3dcbbee40d14bd059f9c3ef9863a7ba81bc1f9ba6d'}
+  - {seq: 1, role: markers, filename: assets/KR6a0133_001.markers.yaml, hash: 'sha256:e12a596c9d3dfd63e7f75381aa2301f4604e81b90f258bc5073c7c420568bc34'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0133_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 335
+  label: 佛說婆羅門避死經
+  type: juan
+  level: 1
+hash: sha256:1dbf12405631c15aa2dbdb6d49b1f8eb98f4ca87aba2db9469b9e16ecc6c45d9
