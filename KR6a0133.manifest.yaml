@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0133/v1
 canonical_location: https://kanripo.org/bkk/KR6a0133/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說婆羅門避死經
   identifiers:
@@ -28,10 +28,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0133_000.yaml, hash: 'sha256:836dc79af1fec9c39ec76bf3089023056ceb7849185ebd24c944d9bebf3d48d9'}
-  - {seq: 1, filename: KR6a0133_001.yaml, hash: 'sha256:b74ac9c2e00e361d7737486f9640299db266bf37ce6e1dc8f223bb563e717ea0'}
+  - {seq: 1, filename: KR6a0133_001.yaml, hash: 'sha256:7a1b45bb906a641697b401800cdd1d2666a4b34ae80a7a372c4f2242d0b24639'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0133_000.markers.yaml, hash: 'sha256:0531c33049cce9fe8ffecc3dcbbee40d14bd059f9c3ef9863a7ba81bc1f9ba6d'}
-  - {seq: 1, role: markers, filename: assets/KR6a0133_001.markers.yaml, hash: 'sha256:e12a596c9d3dfd63e7f75381aa2301f4604e81b90f258bc5073c7c420568bc34'}
+  - {seq: 1, role: markers, filename: assets/KR6a0133_001.markers.yaml, hash: 'sha256:ca774af7f2f5bc2d4922d6895633279149ef75345f687fd1b349c1a93e3ef981'}
 table_of_contents:
 - ref:
     seq: 1
@@ -43,4 +43,7 @@ table_of_contents:
   label: 佛說婆羅門避死經
   type: juan
   level: 1
-hash: sha256:1dbf12405631c15aa2dbdb6d49b1f8eb98f4ca87aba2db9469b9e16ecc6c45d9
+hash: sha256:261a4f0c0a1533764487c807098b0134bd0f92d08e7f8cf263db5986a0951001
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
