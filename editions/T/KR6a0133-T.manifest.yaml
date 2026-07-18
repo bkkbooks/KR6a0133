@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0133_000-T.yaml, hash: 'sha256:836dc79af1fec9c39ec76bf3089023056ceb7849185ebd24c944d9bebf3d48d9'}
   - {seq: 1, filename: KR6a0133_001-T.yaml, hash: 'sha256:b74ac9c2e00e361d7737486f9640299db266bf37ce6e1dc8f223bb563e717ea0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0133_000-T.markers.yaml, hash: 'sha256:2766f87ef52dcdbe964d61e26ccf2716b70e11d1e9553c80d42b8bbf73b4d89c'}
+  - {seq: 0, role: markers, filename: assets/KR6a0133_000-T.markers.yaml, hash: 'sha256:2060b54d0f97581001cf95762918e2fde625e9e8ca7f16fc3fbfd65d9d83af88'}
   - {seq: 1, role: markers, filename: assets/KR6a0133_001-T.markers.yaml, hash: 'sha256:8941885234e8858074ceafba9a79615dfd11e2a0bf17970aed916562ccbfd4dd'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說婆羅門避死經
   type: juan
   level: 1
-hash: sha256:d0ffdca23fc11e05b1cc4f1e0430a13462c34c8bdfbaa28268a28ae97721a601
+hash: sha256:7da8c52e4edf0a6ec99b420f7e27ec43f4d99593d34bd251291332e8ab14ca1a

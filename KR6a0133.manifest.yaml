@@ -30,7 +30,7 @@ assets:
   - {seq: 0, filename: KR6a0133_000.yaml, hash: 'sha256:836dc79af1fec9c39ec76bf3089023056ceb7849185ebd24c944d9bebf3d48d9'}
   - {seq: 1, filename: KR6a0133_001.yaml, hash: 'sha256:7a1b45bb906a641697b401800cdd1d2666a4b34ae80a7a372c4f2242d0b24639'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0133_000.markers.yaml, hash: 'sha256:0531c33049cce9fe8ffecc3dcbbee40d14bd059f9c3ef9863a7ba81bc1f9ba6d'}
+  - {seq: 0, role: markers, filename: assets/KR6a0133_000.markers.yaml, hash: 'sha256:d1cbc4a023942870acad9f01611bc54886211e0e8f9f77c9b2cd768d2906175c'}
   - {seq: 1, role: markers, filename: assets/KR6a0133_001.markers.yaml, hash: 'sha256:ca774af7f2f5bc2d4922d6895633279149ef75345f687fd1b349c1a93e3ef981'}
 table_of_contents:
 - ref:
@@ -43,7 +43,7 @@ table_of_contents:
   label: 佛說婆羅門避死經
   type: juan
   level: 1
-hash: sha256:261a4f0c0a1533764487c807098b0134bd0f92d08e7f8cf263db5986a0951001
+hash: sha256:1d60311c16d58a0a7d79e54b4725d1b5c680b733667675825e6626b12b6652ba
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
